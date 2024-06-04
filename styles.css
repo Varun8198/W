@@ -36,7 +36,7 @@ nav ul li a {
 }
 
 nav ul li a:hover, nav ul li a.active {
-    background-color: #555;
+    background-color: #000000;
 }
 
 section {
@@ -101,7 +101,7 @@ form button {
 }
 
 form button:hover {
-    background-color: #555;
+    background-color: #1a1a19;
 }
 
 #formFeedback {
